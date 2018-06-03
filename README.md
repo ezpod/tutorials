@@ -20,7 +20,7 @@ vue 2.x系列在线交互式教程：
 
 [vuerouter](http://xc.hubwiz.com/course/5983d3aeff52d0da7e3e3d50)教程全面系统地讲解最新的Vue.js前端路由管理库VueRouter 2.x，内容涵盖核心概念、工作原理、实践应用等诸多方面，教程深入浅出，即适合没有使用过前端路由管理库的前端开发人员学习，也适合具备一定VueRouter基础的工程师深入学习提高。
 
-教程链接：[vuerouter]
+
 
 #### vue + webpack教程
 
